@@ -5,6 +5,9 @@ This is an implementation of a backpropagation neural network with the following
 - Output Activation Function: Softmax
 - Loss Function: Cross-Entropy
 
+- ![image](https://github.com/hanani8/Backpropogation/assets/31515421/fd217eec-79e2-487a-ac92-cdb6b2df3689)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
